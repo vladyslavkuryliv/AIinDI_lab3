@@ -1,0 +1,13 @@
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+scipy
+pytesseract
+rapidfuzz
+datasets
+torch
+transformers
+jupyter
+ipykernel
