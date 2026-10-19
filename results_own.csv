@@ -1,0 +1,85 @@
+file,taken,camera,engine,prep,cer,wer,conf,sec,pred
+english.jpg,2026:10:17 19:22:49,iPhone 15,Tesseract,raw,0.18154761904761904,0.5789473684210527,0.6365573770491804,0.5372550000320189,OS ee | ea quick brown Fox jumps over the la2y dog Optical character cecognitron turns imager Into text. Handwriting ig mueh harder to read than priut. Yourself off ite pleasant ecctabic Yow law. Ye their mirth seeme af songs. One Sportsman tolerably him extens/yve put she [ mme diawe « Haig beads Cannock [ookake weamee now €asy Cat had how
+english.jpg,2026:10:17 19:22:49,iPhone 15,TrOCR,raw,0.07142857142857142,0.24561403508771928,0.8996215835213661,5.515456290100701,"I The quick brown fox jumps over the lazy dog
+1 Optical character recognition turns images .
+"" More text . Handling is much harder to read
+than print . Yourself off its pleasant ecstatic
+now law . Yet their ninth seems of songs . One
+sportsman tolerably him extensive put "" she
+immediate . He abroad of cannot looked in size
+now easy eat hard hour ."
+english.jpg,2026:10:17 19:22:49,iPhone 15,Tesseract,adaptive,0.10714285714285714,0.47368421052631576,0.7779032258064517,0.2861572499969043,The quick brown Fox jumps over the lazy do Optical character cecognition turns imager Into text. Handwriting is much harder te read than print. Yourself fF ite pleasant ecstatic row law. Ye their mirth seeme af songs. One Sportsman tolerably him extens/ve put rhe immediate. He abroad. a ca unet lookeg. In. Size now Casy Cat had how. | | | |
+english.jpg,2026:10:17 19:22:49,iPhone 15,TrOCR,adaptive,0.07142857142857142,0.2807017543859649,0.8916947990655899,5.436082873027772,"( The quick brown fox jumps over the lazy dog
+1 Optical character recognition turns images .
+( "" to text . Handling is much harder to read
+( than print . Yourself off its pleasant ecstatic
+know law . Yet their ninth seems of songs . One
+sportsman tolerably him extensive put she
+immediate . He abroad of cannot looked in-Size
+now easy eat hard hour ."
+page_angle.jpg,2026:10:17 19:22:29,iPhone 15,Tesseract,raw,0.867231638418079,1.0,0.3224,0.5403254579869099,"EE п  ' и жр'- лі ae кана ой б бач нафленс ар, rocugunre, poodpa, ОТ Hy ypu Pf. FTC3-4F 1? coGmpux 208 6 р-"
+page_angle.jpg,2026:10:17 19:22:29,iPhone 15,TrOCR,raw,0.1016949152542373,0.3492063492063492,0.9709879875183105,27.376471041992772,"Тільки було наша Маруся урди-годи збереться
+й подруженьки на весілля у дрижечки.
+ни, не буде вона у суботу бігати з
+сіми по вулиці та горло драти, мог
+вжена, як усі роблять, а прийде
+все у неділеньку, посидить, тобіда, а як
+ведуть молодих на двір танцювати,
+она тут чи побула, чл не пабудуло,
+дорицій додому;
+Курилів В.І. ПЗ-47 17жовтня 20269."
+page_angle.jpg,2026:10:17 19:22:29,iPhone 15,Tesseract,adaptive,0.8983050847457628,0.9841269841269841,0.2546153846153846,0.19871229195268825,"ся й м про пиорноту ний РА PS. Je3—44 4? оссобнарая. 208. 0,р-"
+page_angle.jpg,2026:10:17 19:22:29,iPhone 15,TrOCR,adaptive,0.09887005649717515,0.3333333333333333,0.9703776597976684,28.227925001003314,"Тільки було наша Маруся урди-гози збереться
+й подруженьки на весілля у дрижечки.
+ни , не буде вона у суботу бігати з
+сіми по вулиці та горло драти, мов
+в жена, як усі роблять, а прийде
+все у неділеньку, посидить, рообіда, а як
+ведуть молодих на двір танцювати,
+Она тут чи побула, чл не пабудуля,
+орицій додому;
+Курилів В.І. ПЗ-47 17жовтня 2026р."
+page_flat.jpg,2026:10:17 19:21:38,iPhone 15,Tesseract,raw,0.8107344632768362,0.9841269841269841,0.33865384615384614,0.7688595000072382,"| Чо | Tas Фо rae. еру ура знати ча ocr. - dita й о ee ee | ae Came о AEE OEE TOE 5 Pee ЕХ реч ae | о рака ocd aij ee ато cuouogux pa Gly morigrlany Oe I Saas ae ae Hapuih Bf, IC3-4F 12 cokmpur 202 6p."
+page_flat.jpg,2026:10:17 19:21:38,iPhone 15,TrOCR,raw,0.0423728813559322,0.20634920634920634,0.9859525501728058,28.28228487400338,"Тільки було наша Маруся урди-годи збереться
+до подруженьки на весілля у дрижечки.
+й то не буде вона у суботу бігати з
+ними по вулиці та горло драти, мов
+скажена, як усі роблять, а прийде
+вже у неділеньку, посидить, рообіда, а як
+виведуть молодих на двір танцювати,
+вона тут чи побула, чл не пабуда,
+мерший додому;
+Курилів В.І. ПЗ-47 17жовтня 20269."
+page_flat.jpg,2026:10:17 19:21:38,iPhone 15,Tesseract,adaptive,0.8813559322033898,0.9841269841269841,0.30192307692307696,0.2747239579912275,"дна Pek te CHa-secepeo , М yor pokes j a CORE Gee нарклан у гост, poodipa, в А І. пз 1? mc0bm pus 203.6 р. |"
+page_flat.jpg,2026:10:17 19:21:38,iPhone 15,TrOCR,adaptive,0.031073446327683617,0.1746031746031746,0.9874565482139588,28.248604459047783,"Тільки було наша Маруся урди-годи збереться
+до подруженьки на весілля у дражечки. Та
+й то не буде вона у суботу бігати з
+ними по вулиці та горло драти, мов
+скажена, як усі роблять; а прийде
+вже у неділеньку, посидить, рообіда, а як
+виведуть молодих на двір танцювати,
+вона тут чи робула, чл не побыла
+мерший додому;
+Курилів В.І. ПЗ-47 17жовтня 2026р."
+page_shadow.jpg,2026:10:17 19:56:45,iPhone 15,Tesseract,raw,0.9519774011299436,1.0,0.424,0.288973500020802,"ie eg ран гла 7 oe Ate Vs зи a,"
+page_shadow.jpg,2026:10:17 19:56:45,iPhone 15,TrOCR,raw,0.062146892655367235,0.25396825396825395,0.9818551659584045,32.32582750095753,"Тільки було наша Маруся урди-годи зберетьєв
+до подруженьки на весілля у дрижечки.
+И то не буде вона у суботу бігати з
+ними по вулиці та горло драти, мов
+кажена, як усі роблять, а прийде
+вже у неділеньку, посидить, рообіда, а як
+шведуть молодих на двір танцювати,
+вона тут чи побула, чл не пабудуло,
+мерший додому;
+Курилів В.І. ПЗ-47 17жовтня 2026р."
+page_shadow.jpg,2026:10:17 19:56:45,iPhone 15,Tesseract,adaptive,0.8305084745762712,0.9682539682539683,0.3385714285714285,0.5111761660082266,"а а «Я be mel ба у роб 428 se а il Goce ya Cowce ФО дер, Осо, poodiga, Copa: тати ee подала, uw Ke nodg a, Gogh Pf. тон 1? ошсобтарчя. 202 6p. a"
+page_shadow.jpg,2026:10:17 19:56:45,iPhone 15,TrOCR,adaptive,0.03954802259887006,0.20634920634920634,0.9789690971374512,26.626606415957212,"Тільки було наша Маруся урди-годи збереться
+до подруженьки на весілля у дражечки. Та
+й то не буде вона у суботу бігати з
+ними по вулиці та горло драти, мов
+скажена, як усі поблять; а прийде
+вже у неділеньку, посидить, рообіда, а як
+шведуть молодих на двір танцювати,
+Кона тут чи побула, чл не пабуда,
+мерший додому;
+Курилів В.І. ПЗ-47 17жовтня 2026р."

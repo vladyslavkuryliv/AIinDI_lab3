@@ -1,0 +1,401 @@
+idx,engine,prep,gt,pred,conf,sec,cer,wer
+40,Tesseract,raw,"Dennis Brogan , Shelagh Delaney , and Alan Sillitoe .","Dennis Byogan Shelagh Delaney, | Avon SWite",0.40714285714285714,0.10883212502812967,0.24,0.5714285714285714
+40,Tesseract,prep,"Dennis Brogan , Shelagh Delaney , and Alan Sillitoe .","Denis Byogam , Shelagh Delaney, and A Vern SWlibe.",0.5488888888888889,0.10716862499248236,0.22,0.7142857142857143
+40,TrOCR,raw,"Dennis Brogan , Shelagh Delaney , and Alan Sillitoe .","Dennis Brogan , Shelagh Delaney , and Alan Sillitoe",0.9607148170471191,0.8787380420253612,0.02,0.14285714285714285
+40,TrOCR,prep,"Dennis Brogan , Shelagh Delaney , and Alan Sillitoe .","Dennis Brogan , Shelagh Delaney , and Alan Sillitoe",0.9843702912330627,0.872913042025175,0.02,0.14285714285714285
+78,Tesseract,raw,text of the Gospel .,lex of fhe Gaspel,0.59,0.093873415957205,0.2631578947368421,0.75
+78,Tesseract,prep,text of the Gospel .,lex of fhe Gospel,0.5575,0.08918254100717604,0.21052631578947367,0.75
+78,TrOCR,raw,text of the Gospel .,text of the Gospel .,0.997961699962616,0.3550753340241499,0.0,0.0
+78,TrOCR,prep,text of the Gospel .,text of the Gospel .,0.9985008239746094,0.3348583329934627,0.0,0.0
+85,Tesseract,raw,which is most likely to have been the original,which is most likely bo lqut hen phe anginal,0.6166666666666667,0.11364137497730553,0.2391304347826087,0.5555555555555556
+85,Tesseract,prep,which is most likely to have been the original,which 1S most likey bo laut haw be onginaL,0.55,0.12186016701161861,0.34782608695652173,0.7777777777777778
+85,TrOCR,raw,which is most likely to have been the original,which is most likely to have been the original,0.9999164342880249,0.5270087919780053,0.0,0.0
+85,TrOCR,prep,which is most likely to have been the original,which is most likely to have been the original,0.9999024271965027,0.5421083329711109,0.0,0.0
+95,Tesseract,raw,it is now used to mark a paragraph ending . Frequently,"he AS TOD VR KO WOR O PTAAKOPL Mey, Wepurry",0.4,0.12361041700933129,0.7735849056603774,1.0
+95,Tesseract,prep,it is now used to mark a paragraph ending . Frequently,he AS TOD VR KO WOR O PTA ANOPL Bey Kesey,0.38636363636363635,0.13737283303635195,0.7735849056603774,1.1
+95,TrOCR,raw,it is now used to mark a paragraph ending . Frequently,it is now used to work a paragraph ending . Frequently,0.9922863841056824,0.6693461670074612,0.03773584905660377,0.1
+95,TrOCR,prep,it is now used to mark a paragraph ending . Frequently,it is now used to work a paragraph ending . Frequently,0.9931672215461731,0.65809616696788,0.03773584905660377,0.1
+138,Tesseract,raw,A natural transition from gardens and,"Qrasmdl trapad(o poor gach, and",0.392,0.10010120802326128,0.5675675675675675,0.8333333333333334
+138,Tesseract,prep,A natural transition from gardens and,A rvrablual trap (w prow Gomchn’ and,0.36857142857142855,0.12330191698856652,0.5675675675675675,0.8333333333333334
+138,TrOCR,raw,A natural transition from gardens and,a national transition from gardens and,0.8407900929450989,0.3842127909883857,0.10810810810810811,0.3333333333333333
+138,TrOCR,prep,A natural transition from gardens and,A national transition from gardens and,0.8788601160049438,0.37601216696202755,0.08108108108108109,0.16666666666666666
+141,Tesseract,raw,supply . The pools are probably natural springs,Ji pply Tle fo°A aK prcluhly blklligf for \e-go,0.24444444444444444,0.11571450001792982,0.6521739130434783,1.2857142857142858
+141,Tesseract,prep,supply . The pools are probably natural springs,Mppy. Le per ans prota villa frieg,0.2885714285714286,0.12514195800758898,0.5434782608695652,1.0
+141,TrOCR,raw,supply . The pools are probably natural springs,supply . The pads and probably natural springs,0.8143121600151062,0.4934756659786217,0.10869565217391304,0.2857142857142857
+141,TrOCR,prep,supply . The pools are probably natural springs,supply . The pads and probably inclined springs,0.8285622596740723,0.49495804199250415,0.2608695652173913,0.42857142857142855
+143,Tesseract,raw,orchards to the vital question of water,oy cltuctn fo Va va georolite 4/ LIaby,0.36,0.12429983401671052,0.7692307692307693,1.1428571428571428
+143,Tesseract,prep,orchards to the vital question of water,"WA clits to Mae OM, 4d geod @/ ey",0.34,0.11809750000247732,0.6923076923076923,1.1428571428571428
+143,TrOCR,raw,orchards to the vital question of water,an clands to the vital question of vector,0.8304556012153625,0.5329717500135303,0.23076923076923078,0.42857142857142855
+143,TrOCR,prep,orchards to the vital question of water,an clauds to the vital question of vector,0.8413989543914795,0.5911044999957085,0.23076923076923078,0.42857142857142855
+167,Tesseract,raw,tell !,1 epg!,0.655,0.09395737497834489,0.8,2.0
+167,Tesseract,prep,tell !,1 epg!,0.68,0.08676520799053833,0.8,2.0
+167,TrOCR,raw,tell !,tele !,0.7875530123710632,0.2328542080358602,0.2,1.0
+167,TrOCR,prep,tell !,teele !,0.6332941055297852,0.3007093329797499,0.4,1.0
+193,Tesseract,raw,is something deficient .,,0.0,0.0838198330020532,1.0,1.0
+193,Tesseract,prep,is something deficient .,K sowe thing do hey,0.36200000000000004,0.08917637501144782,0.5217391304347826,1.6666666666666667
+193,TrOCR,raw,is something deficient .,is something to fright .,0.720250129699707,0.3638200830318965,0.30434782608695654,0.6666666666666666
+193,TrOCR,prep,is something deficient .,is something to ficily .,0.6495347023010254,0.43581820803228766,0.2608695652173913,0.6666666666666666
+211,Tesseract,raw,selfish and think only of one's personal advantage to,Selfish and think onl of one's personal advanl ose te,0.546,0.13918674999149516,0.1320754716981132,0.5555555555555556
+211,Tesseract,prep,selfish and think only of one's personal advantage to,Selfish and think onl of one's persona advantage to,0.6877777777777777,0.13476983399596065,0.05660377358490566,0.3333333333333333
+211,TrOCR,raw,selfish and think only of one's personal advantage to,Selfish and think only of one's personal advantage to,0.9868351817131042,0.5925277090282179,0.018867924528301886,0.1111111111111111
+211,TrOCR,prep,selfish and think only of one's personal advantage to,Selfish and think only of one's personal advantage to,0.9944906830787659,0.5851960419677198,0.018867924528301886,0.1111111111111111
+217,Tesseract,raw,coming for the people in need . They will,"corm iN, for dhe eecple in need » Then w\ JI",0.5354545454545455,0.16618366702459753,0.35,1.125
+217,Tesseract,prep,coming for the people in need . They will,"com Ne, for dse oecple In need Then wi Jf",0.439,0.23655158298788592,0.35,1.125
+217,TrOCR,raw,coming for the people in need . They will,coming for the people in need . They will,0.9873660206794739,0.5062005000072531,0.0,0.0
+217,TrOCR,prep,coming for the people in need . They will,coming for the people in need . They will,0.9890853762626648,0.5084137080120854,0.0,0.0
+221,Tesseract,raw,"that your heart be not deceived , and 1ye turn",thed wour heart be nct deceived ) and Aue +urn,0.672,0.14172512502409518,0.17777777777777778,0.6666666666666666
+221,Tesseract,prep,"that your heart be not deceived , and 1ye turn",thadk sur heart be not deceived | and Aye turn,0.659,0.15428333397721872,0.15555555555555556,0.5555555555555556
+221,TrOCR,raw,"that your heart be not deceived , and 1ye turn","that your heart be not deceived , and I've turn",0.9584206938743591,0.6013897500233725,0.06666666666666667,0.1111111111111111
+221,TrOCR,prep,"that your heart be not deceived , and 1ye turn","that your heart be not deceived , and I've turn",0.9691854119300842,0.7044004590134136,0.06666666666666667,0.1111111111111111
+255,Tesseract,raw,"We eat it . We accept it , to show we have self-control","We Cat 4 We accest id, to show we nove selt-corffol",0.6427272727272727,0.1987982079735957,0.22641509433962265,0.5454545454545454
+255,Tesseract,prep,"We eat it . We accept it , to show we have self-control",,0.0,0.14230370800942183,1.0,1.0
+255,TrOCR,raw,"We eat it . We accept it , to show we have self-control",We eat it . We accept it . to show we have self-control,0.8876721262931824,0.8753657080233097,0.018867924528301886,0.09090909090909091
+255,TrOCR,prep,"We eat it . We accept it , to show we have self-control",We eat it . We accept it . to show we have self-confitol,0.9162966012954712,0.9511712919920683,0.07547169811320754,0.18181818181818182
+300,Tesseract,raw,"James had grown up in Presbyterian Scotland ,",,0.0,0.16747441596817225,1.0,1.0
+300,Tesseract,prep,"James had grown up in Presbyterian Scotland ,",,0.0,0.1514492080314085,1.0,1.0
+300,TrOCR,raw,"James had grown up in Presbyterian Scotland ,","James had grown up in Presbyterian Scotland ,",0.9996684193611145,0.5566780410008505,0.0,0.0
+300,TrOCR,prep,"James had grown up in Presbyterian Scotland ,","James had grown up in Presbyterian Scotland ,",0.999659538269043,0.5127998749958351,0.0,0.0
+369,Tesseract,raw,Because situations which may contain,Secaux whatone tfich Wad Contes,0.428,0.1417316670413129,0.4722222222222222,1.0
+369,Tesseract,prep,Because situations which may contain,Secaux twhaton thi Mf contiten,0.19,0.1381844169809483,0.5,1.0
+369,TrOCR,raw,Because situations which may contain,because situations which may contain,0.8860137462615967,0.37237320898566395,0.027777777777777776,0.2
+369,TrOCR,prep,Because situations which may contain,Because situations which may contain,0.9617400169372559,0.31510895903920755,0.0,0.0
+378,Tesseract,raw,"finally defeat us . More than that , that God","pualy chefeat ut. Mere fla, het, Ahat Goo!",0.47375,0.14010575000429526,0.37209302325581395,1.0
+378,Tesseract,prep,"finally defeat us . More than that , that God","prualy ofe fea? it. Mere that, 7Gat, Phat God’",0.2122222222222222,0.1461912919767201,0.3953488372093023,1.0
+378,TrOCR,raw,"finally defeat us . More than that , that God","finally defeat us . More than that , that God",0.9695560932159424,0.5422099999850616,0.0,0.0
+378,TrOCR,prep,"finally defeat us . More than that , that God","finally defeat us . More than that , that God",0.9693575501441956,0.5525348330265842,0.0,0.0
+429,Tesseract,raw,"if the cause of our pain is too deep seated ,",,0.0,0.0787647080142051,1.0,1.0
+429,Tesseract,prep,"if the cause of our pain is too deep seated ,",,0.0,0.08163458300987259,1.0,1.0
+429,TrOCR,raw,"if the cause of our pain is too deep seated ,","if the cause of over pain is too deep sealed ,",0.8195114731788635,0.549377583025489,0.06818181818181818,0.2
+429,TrOCR,prep,"if the cause of our pain is too deep seated ,",if the cause of over pain in two deep sacked,0.7873994708061218,0.5601607079734094,0.18181818181818182,0.4
+437,Tesseract,raw,if the trouble is a complicated one,,0.0,0.07950283295940608,1.0,1.0
+437,Tesseract,prep,if the trouble is a complicated one,iL flew Lb far ble 42> @ ery cel ang,0.424,0.11635575001128018,0.7428571428571429,1.4285714285714286
+437,TrOCR,raw,if the trouble is a complicated one,if the trouble is a complicated one,0.9629229307174683,0.3930880419793539,0.0,0.0
+437,TrOCR,prep,if the trouble is a complicated one,if the trouble is a complicated one,0.9837974905967712,0.41919341700850055,0.0,0.0
+479,Tesseract,raw,planning to do so or in fact being conscious,PANNING 10d SAT IN fOck Rong COMAGGS,0.4,0.136279416969046,0.75,1.0
+479,Tesseract,prep,planning to do so or in fact being conscious,PANNING TOdO SAT IN HO Bong COMAGGS,0.38142857142857145,0.1265657499898225,0.7954545454545454,1.0
+479,TrOCR,raw,planning to do so or in fact being conscious,plamning to do so or in fact being conscious,0.9271963238716125,0.6003076659981161,0.022727272727272728,0.1111111111111111
+479,TrOCR,prep,planning to do so or in fact being conscious,plamning to do so or in fact being conscious,0.9565785527229309,0.6015941249788739,0.022727272727272728,0.1111111111111111
+489,Tesseract,raw,"be done and then work quietly through them ,","Me dol tH’? tee tier A getty Mhoc7h. Jil®,",0.3011111111111111,0.12479354196693748,0.6046511627906976,1.125
+489,Tesseract,prep,"be done and then work quietly through them ,",le Bernt tHe Vg tir peutitly thoiph. WZ,0.2875,0.13692570803686976,0.627906976744186,1.0
+489,TrOCR,raw,"be done and then work quietly through them ,","We done and then work quietly through them ,",0.7883537411689758,0.500187499972526,0.023255813953488372,0.125
+489,TrOCR,prep,"be done and then work quietly through them ,","to done and then work quietly though them ,",0.8317723274230957,0.48505995800951496,0.06976744186046512,0.25
+528,Tesseract,raw,"It was a little complicated to work ,",,0.0,0.08092954201856628,1.0,1.0
+528,Tesseract,prep,"It was a little complicated to work ,",,0.0,0.09400929103139788,1.0,1.0
+528,TrOCR,raw,"It was a little complicated to work ,","It was a little complicated to work ,",0.9810514450073242,0.4350454169907607,0.0,0.0
+528,TrOCR,prep,"It was a little complicated to work ,","It was a little complicated to work ,",0.983532190322876,0.4312940829549916,0.0,0.0
+560,Tesseract,raw,The sugya is built around the saying of,The Seen £s helt ard the a? ae of,0.44666666666666666,0.09983941703103483,0.4358974358974359,0.75
+560,Tesseract,prep,The sugya is built around the saying of,,0.0,0.08779158303514123,1.0,1.0
+560,TrOCR,raw,The sugya is built around the saying of,The suaya is built around the saying of,0.9796560406684875,0.4636017499724403,0.02564102564102564,0.125
+560,TrOCR,prep,The sugya is built around the saying of,The suaya is built around the saying of,0.9725959897041321,0.5049779170076363,0.02564102564102564,0.125
+594,Tesseract,raw,whether the Heavenly Court concurred,wheter Hie Heavety Court couse,0.294,0.11277087504277006,0.2777777777777778,0.8
+594,Tesseract,prep,whether the Heavenly Court concurred,wheter the Heavety Court corrcourted,0.536,0.1107647919561714,0.19444444444444445,0.6
+594,TrOCR,raw,whether the Heavenly Court concurred,whether the Heavenly Court concerned,0.9850769639015198,0.34678720898227766,0.05555555555555555,0.2
+594,TrOCR,prep,whether the Heavenly Court concurred,whether the Heavenly Court concerned,0.9519193172454834,0.3144534580060281,0.05555555555555555,0.2
+639,Tesseract,raw,are also closely related to the sea-bed,Ore aly Moule fthate HM a-ha!,0.31666666666666665,0.14232149999588728,0.5897435897435898,1.0
+639,Tesseract,prep,are also closely related to the sea-bed,Ore gl tol pihafet HO Me Fa -Le/,0.25875,0.12614841695176437,0.5897435897435898,1.1428571428571428
+639,TrOCR,raw,are also closely related to the sea-bed,are also closely related to the sea-bed,0.9751745462417603,0.4694849160150625,0.0,0.0
+639,TrOCR,prep,are also closely related to the sea-bed,are also closely related to the sea-bed,0.9904060363769531,0.47682804096257314,0.0,0.0
+707,Tesseract,raw,"be by actual contact , or by sight reaction to the disturbed",,0.0,0.07961095799691975,1.0,1.0
+707,Tesseract,prep,"be by actual contact , or by sight reaction to the disturbed","be "" actual con fac Or 4 enkt reachion fr the dalarbed",0.47916666666666663,0.10676537500694394,0.3389830508474576,0.8181818181818182
+707,TrOCR,raw,"be by actual contact , or by sight reaction to the disturbed","be by actual contact , or by sight reaction to the disturbed",0.9976111650466919,0.5972412499831989,0.0,0.0
+707,TrOCR,prep,"be by actual contact , or by sight reaction to the disturbed","be by actual contact , or by sight reaction to the disturbed",0.9988372325897217,0.6158919170266017,0.0,0.0
+708,Tesseract,raw,aware of the moving footrope before,,0.0,0.08452024997677654,1.0,1.0
+708,Tesseract,prep,aware of the moving footrope before,Russe ¢ “s HOW2G footrope before,0.175,0.10405433300184086,0.42857142857142855,0.6666666666666666
+708,TrOCR,raw,aware of the moving footrope before,aware of the moving footrope before,0.9715315699577332,0.44819299998926,0.0,0.0
+708,TrOCR,prep,aware of the moving footrope before,aware of the moving footrope before,0.9470600485801697,0.45483620796585456,0.0,0.0
+724,Tesseract,raw,was actually just off the bottom and was,“ios atvatty joo tf le belt WI CBI,0.345,0.1146135829621926,0.6,1.0
+724,Tesseract,prep,was actually just off the bottom and was,ip atevatly fer tf te beitz DILL BS,0.24375,0.1261922909761779,0.625,1.0
+724,TrOCR,raw,was actually just off the bottom and was,was actually just of the bottom and was,0.9985783100128174,0.4429464159766212,0.025,0.125
+724,TrOCR,prep,was actually just off the bottom and was,was actually just of the bottom and was,0.9984508156776428,0.452968834026251,0.025,0.125
+752,Tesseract,raw,"money to her relatives , and her brother-in-law was asked for","MONLY to NLY velo Ves, ous her broth’ - In - Law wes asked For",0.6920000000000001,0.14680729201063514,0.4166666666666667,1.2
+752,Tesseract,prep,"money to her relatives , and her brother-in-law was asked for","MONLY to nNLY veloti Ves, ous ner brothe - in - Law ups osterd For",0.5793333333333333,0.14807816699612886,0.4666666666666667,1.4
+752,TrOCR,raw,"money to her relatives , and her brother-in-law was asked for","money to her relatives , and her brother - in - law was asked for",0.926872730255127,0.7187123330077156,0.06666666666666667,0.5
+752,TrOCR,prep,"money to her relatives , and her brother-in-law was asked for","money to her relatives , as her brother - in - law was asked for",0.9116305112838745,0.7333384999656118,0.1,0.6
+755,Tesseract,raw,This man agreed that his engagement had,\Wis Man an eed that Wis Engoo¢ ment h od,0.622,0.10838758299360052,0.3333333333333333,1.2857142857142858
+755,Tesseract,prep,This man agreed that his engagement had,"Vis MAN ag, (eed that his CNQOO ment hod",0.5744444444444444,0.1219673749874346,0.38461538461538464,1.0
+755,TrOCR,raw,This man agreed that his engagement had,This man agreed that his engagement had,0.9963192343711853,0.40134108398342505,0.0,0.0
+755,TrOCR,prep,This man agreed that his engagement had,This man agreed that his engagement had,0.9966161847114563,0.412331500032451,0.0,0.0
+774,Tesseract,raw,"And so the inquest , which had dragged on , with","Nid 60 the | nquest , whieh led dragged om, with",0.609090909090909,0.09727737499633804,0.21739130434782608,0.7777777777777778
+774,Tesseract,prep,"And so the inquest , which had dragged on , with","Nad CO the bnquect , wluch leg drayged oa, with",0.516,0.10283270798390731,0.2826086956521739,0.7777777777777778
+774,TrOCR,raw,"And so the inquest , which had dragged on , with","And so the inquest , which had dragged on , with",0.9908272624015808,0.555643624975346,0.0,0.0
+774,TrOCR,prep,"And so the inquest , which had dragged on , with","And so the inquest , which had dragged on , with",0.9954874515533447,0.5585406660102308,0.0,0.0
+788,Tesseract,raw,"by it will be so heartily sick , what with the","4 it wihk € Se heattiff s/Ck, What With the",0.64,0.12643987499177456,0.3333333333333333,0.8
+788,Tesseract,prep,"by it will be so heartily sick , what with the","oY jt wihh & Se heatti4f s/Ck, What WiEh the",0.43799999999999994,0.13484179199440405,0.37777777777777777,0.9
+788,TrOCR,raw,"by it will be so heartily sick , what with the","by it will be so heartily sick , what with the",0.9611284732818604,0.5915869580348954,0.0,0.0
+788,TrOCR,prep,"by it will be so heartily sick , what with the","by it will be so heartily sick , what with the",0.9371971487998962,0.6036403749603778,0.0,0.0
+802,Tesseract,raw,The mere thought of subterranean travel,The meze thoupht of Subtéwaneary trwveg,0.5583333333333333,0.11661750002531335,0.2564102564102564,0.6666666666666666
+802,Tesseract,prep,The mere thought of subterranean travel,The meze thepht of Subtertanery trvee,0.615,0.11736704199574888,0.2564102564102564,0.6666666666666666
+802,TrOCR,raw,The mere thought of subterranean travel,The mere thought of subterranean travel,0.9809314608573914,0.3957892920006998,0.0,0.0
+802,TrOCR,prep,The mere thought of subterranean travel,The mere thought of subterranean travel,0.9816198945045471,0.39525004097959027,0.0,0.0
+810,Tesseract,raw,"occurred on the same line , although this time the","Pceuvred on Ue Some dae, oLYrorg h ras Hw € Ane",0.5054545454545455,0.12950187496608123,0.5102040816326531,1.1111111111111112
+810,Tesseract,prep,"occurred on the same line , although this time the","Pccuvred on Ae Some lune, oLtroush Ais bine Ae",0.46,0.14127841702429578,0.3469387755102041,0.8888888888888888
+810,TrOCR,raw,"occurred on the same line , although this time the","accurred on the same line , although this time the",0.9862068295478821,0.5459751249873079,0.02040816326530612,0.1111111111111111
+810,TrOCR,prep,"occurred on the same line , although this time the","accurred on the same line , although this time the",0.9738218784332275,0.5635554170003161,0.02040816326530612,0.1111111111111111
+872,Tesseract,raw,told us that there was nothing an Englishman,Lotol hal flere wal no lir'eg Qn laglatd ma,0.4077777777777778,0.10018366697477177,0.5454545454545454,1.125
+872,Tesseract,prep,told us that there was nothing an Englishman,"Lit ws Hal flere wa f noire g QA, laglsth na",0.42363636363636364,0.10938512498978525,0.5909090909090909,1.375
+872,TrOCR,raw,told us that there was nothing an Englishman,told us that there was nothing an Englishman,0.977546215057373,0.4890515419538133,0.0,0.0
+872,TrOCR,prep,told us that there was nothing an Englishman,told us that there was nothing an English man,0.9837931394577026,0.48833279201062396,0.022727272727272728,0.25
+881,Tesseract,raw,homely and protecting flame .,from: ty ual fares fame.,0.5,0.09281079098582268,0.6428571428571429,1.25
+881,Tesseract,prep,homely and protecting flame .,fomch Qed pitkobieg fee,0.3025,0.09638766699936241,0.5714285714285714,1.0
+881,TrOCR,raw,homely and protecting flame .,homely and protecting flame .,0.9849898219108582,0.35786020901286975,0.0,0.0
+881,TrOCR,prep,homely and protecting flame .,homely and protecting flame .,0.9848790764808655,0.35822262498550117,0.0,0.0
+934,Tesseract,raw,"of gorging the eye with magnitude ,","OF Grange Ge WAR masyni tudo,",0.29833333333333334,0.11337370803812519,0.5588235294117647,1.0
+934,Tesseract,prep,"of gorging the eye with magnitude ,",,0.0,0.08577912498731166,1.0,1.0
+934,TrOCR,raw,"of gorging the eye with magnitude ,",of sagging the eye with magnitude,0.7947889566421509,0.3929360419861041,0.11764705882352941,0.3333333333333333
+934,TrOCR,prep,"of gorging the eye with magnitude ,",of sorging the eye with magnitude,0.8625097870826721,0.435065041994676,0.058823529411764705,0.3333333333333333
+951,Tesseract,raw,"must have had one that would , because Esau sold",Mosk \nave. ad QrK\e Anak woo \d ) RECN se Esau ga\d,0.355,0.14024716604035348,0.5531914893617021,1.1111111111111112
+951,Tesseract,prep,"must have had one that would , because Esau sold","musk Nave had ane *Nar wold ,hecause Esau geld",0.5377777777777778,0.14263329200912267,0.23404255319148937,0.7777777777777778
+951,TrOCR,raw,"must have had one that would , because Esau sold","must have had one that would , because Esau sold",0.9938817024230957,0.5399807080393657,0.0,0.0
+951,TrOCR,prep,"must have had one that would , because Esau sold","must have had one that would , because Esau sold",0.9974391460418701,0.5398972499533556,0.0,0.0
+952,Tesseract,raw,then we hear of the fleshpots of Egypt after,"Kaen we Necc of ne, R\eshiects & Eaye\ af \er",0.445,0.12252308399183676,0.45454545454545453,0.8888888888888888
+952,Tesseract,prep,then we hear of the fleshpots of Egypt after,Khen we eos cf Xve Sleshpsts of Eaypy af Sor,0.498,0.13116858300054446,0.3181818181818182,0.8888888888888888
+952,TrOCR,raw,then we hear of the fleshpots of Egypt after,then we hear of the fleshpots of Egypt after,0.9634146094322205,0.49210641701938584,0.0,0.0
+952,TrOCR,prep,then we hear of the fleshpots of Egypt after,then we hear of the fleshpots of Egypt after,0.9775035381317139,0.5108154579647817,0.0,0.0
+975,Tesseract,raw,"and he knew how to do it , too : - When the",,0.0,0.0799438749672845,1.0,1.0
+975,Tesseract,prep,"and he knew how to do it , too : - When the",,0.0,0.09597358299652115,1.0,1.0
+975,TrOCR,raw,"and he knew how to do it , too : - When the",and he knew how to do it too : - When the,0.8730423450469971,0.5986811249749735,0.024390243902439025,0.09090909090909091
+975,TrOCR,prep,"and he knew how to do it , too : - When the",and he knew how to do it too : - When the,0.9026328325271606,0.6720004579983652,0.024390243902439025,0.09090909090909091
+1012,Tesseract,raw,piece of resistance .,piser oh SPS UCe Vere,0.168,0.12277433305280283,0.75,1.6666666666666667
+1012,Tesseract,prep,piece of resistance .,,0.0,0.09751770901493728,1.0,1.0
+1012,TrOCR,raw,piece of resistance .,piece of resistance .,0.9980222582817078,0.32649900001706555,0.0,0.0
+1012,TrOCR,prep,piece of resistance .,piece of resistance .,0.9974284172058105,0.3042875420069322,0.0,0.0
+1084,Tesseract,raw,"broth , or brew , A hotch-potch of all","proves , or iw, A Wolkh-ocotch of al",0.4675,0.1514671670156531,0.3611111111111111,0.5714285714285714
+1084,Tesseract,prep,"broth , or brew , A hotch-potch of all","Isrots | or btw, K Wotch-ecten of all",0.5425,0.14872612501494586,0.3611111111111111,0.7142857142857143
+1084,TrOCR,raw,"broth , or brew , A hotch-potch of all","broth , or brew , A hotch-potch of all",0.9366353154182434,0.7328102919855155,0.0,0.0
+1084,TrOCR,prep,"broth , or brew , A hotch-potch of all","broth , or brew , A hotch-potch of all",0.9305497407913208,0.7249836670234799,0.0,0.0
+1224,Tesseract,raw,The people - Langland's ' folk ' and Gaunt's,The people - Lang/and <6 ’FO/k’ ond Goun/ss,0.585,0.12522416602587327,0.29545454545454547,0.6666666666666666
+1224,Tesseract,prep,The people - Langland's ' folk ' and Gaunt's,The people - Langland ss Folk’ ond Goun/s,0.6125,0.12871141702635214,0.20454545454545456,0.6666666666666666
+1224,TrOCR,raw,The people - Langland's ' folk ' and Gaunt's,"The people - Langland's "" folk ' and Gaunt's",0.9440327882766724,0.6564057089854032,0.022727272727272728,0.1111111111111111
+1224,TrOCR,prep,The people - Langland's ' folk ' and Gaunt's,"The people - Langland's "" folk ' and Gaunt's",0.9418325424194336,0.7547203750000335,0.022727272727272728,0.1111111111111111
+1263,Tesseract,raw,"and , where the poorest were to pay a groat ,","and, where He peorent wae be pay a gral",0.6888888888888889,0.16868183301994577,0.2558139534883721,0.5555555555555556
+1263,Tesseract,prep,"and , where the poorest were to pay a groat ,","and, where He peorert woe be pay a gral",0.6233333333333334,0.1720060000079684,0.2558139534883721,0.5555555555555556
+1263,TrOCR,raw,"and , where the poorest were to pay a groat ,","and , where the poorest were to pay a great",0.9119350910186768,0.6254563749535009,0.046511627906976744,0.1111111111111111
+1263,TrOCR,prep,"and , where the poorest were to pay a groat ,","and , where the poorest were to pay a great ,",0.9103425145149231,0.743945290974807,0.023255813953488372,0.1111111111111111
+1267,Tesseract,raw,scale of payments was fixed for the,,0.0,0.13520775001961738,1.0,1.0
+1267,Tesseract,prep,scale of payments was fixed for the,scale of poi wren s W@s [coud Pose Me,0.4877777777777778,0.18811200000345707,0.4857142857142857,1.0
+1267,TrOCR,raw,scale of payments was fixed for the,scale of payments was hired for the,0.9130265116691589,0.44609470799332485,0.05714285714285714,0.14285714285714285
+1267,TrOCR,prep,scale of payments was fixed for the,scale of payments was liked for the,0.9269826412200928,0.4276382079697214,0.05714285714285714,0.14285714285714285
+1272,Tesseract,raw,the Duke of Lancaster and the Archbishops,lg Dale ol lias cucte ocd He. Arh ot shops,0.467,0.15519220801070333,0.5609756097560976,1.4285714285714286
+1272,Tesseract,prep,the Duke of Lancaster and the Archbishops,Po Dele ol Lancaster and Me Ar Ao shops,0.5488888888888889,0.14351108303526416,0.2926829268292683,1.0
+1272,TrOCR,raw,the Duke of Lancaster and the Archbishops,the Duke of Lancaster and the Archbishop's,0.9784416556358337,0.4450097089866176,0.024390243902439025,0.14285714285714285
+1272,TrOCR,prep,the Duke of Lancaster and the Archbishops,the Duke of Lancaster and the Archbishop's,0.9737406969070435,0.43478762498125434,0.024390243902439025,0.14285714285714285
+1273,Tesseract,raw,"In the following year , 1380 , the last and","oe Pollowing feo A880, tle lak qud",0.5385714285714286,0.12170012498972937,0.4146341463414634,1.0
+1273,Tesseract,prep,"In the following year , 1380 , the last and","In the Pollowing year, 4380, the lak auel",0.65625,0.12029345898190513,0.17073170731707318,0.5
+1273,TrOCR,raw,"In the following year , 1380 , the last and","In the following year , 1380 , the last and",0.9982569813728333,0.5666678340057842,0.0,0.0
+1273,TrOCR,prep,"In the following year , 1380 , the last and","In the following year , 1380 , the last and",0.998128354549408,0.5719890840118751,0.0,0.0
+1291,Tesseract,raw,"chant from Genoa had been murdered , and",unl Erase Genoa had heen Mire hereel cand,0.41625,0.1475267909700051,0.4358974358974359,0.8571428571428571
+1291,Tesseract,prep,"chant from Genoa had been murdered , and",NKual Crom Genoa had bh oon Mine cereel cone,0.3477777777777778,0.14775283396011218,0.5384615384615384,1.0
+1291,TrOCR,raw,"chant from Genoa had been murdered , and","chant from Genoa had been murdered , and",0.9853063821792603,0.4838374999817461,0.0,0.0
+1291,TrOCR,prep,"chant from Genoa had been murdered , and","chant from Genoa had been murdered , and",0.984979510307312,0.4793530000024475,0.0,0.0
+1294,Tesseract,raw,"poll-tax had supplied 22,000 , a tax of","yh - ae deh pupa oe, eRe a Lre 9",0.364,0.1292637909646146,0.6842105263157895,1.2857142857142858
+1294,Tesseract,prep,"poll-tax had supplied 22,000 , a tax of","yh - eae ek pup led 22,70, a fare q",0.21899999999999997,0.12446954095503315,0.5263157894736842,1.2857142857142858
+1294,TrOCR,raw,"poll-tax had supplied 22,000 , a tax of","poll-Kaze that supplied 227,000 , a face of",0.7204304933547974,0.6299634580500424,0.23684210526315788,0.5714285714285714
+1294,TrOCR,prep,"poll-tax had supplied 22,000 , a tax of","full-Koe-had supplied 22,000 , a face of",0.7354732751846313,0.6783349170000292,0.23684210526315788,0.42857142857142855
+1308,Tesseract,raw,"such as serpents , frogs , and the like .",BUCH as serpents Te4s: and he |ke.,0.41714285714285715,0.09772054199129343,0.34210526315789475,0.7142857142857143
+1308,Tesseract,prep,"such as serpents , frogs , and the like .",,0.0,0.08609787502791733,1.0,1.0
+1308,TrOCR,raw,"such as serpents , frogs , and the like .","such as serpents , frogs , and the like .",0.9224677681922913,0.5890778340399265,0.0,0.0
+1308,TrOCR,prep,"such as serpents , frogs , and the like .","such as serpents , frogs , and the like",0.9256270527839661,0.5588278329814784,0.02631578947368421,0.14285714285714285
+1318,Tesseract,raw,"to the movement of the arteries , likewise gauged from","to the movement of the arteries, likewise gouged fron,",0.8411111111111111,0.11688512499677017,0.05660377358490566,0.2222222222222222
+1318,Tesseract,prep,"to the movement of the arteries , likewise gauged from","to the movement of the arteries likewise gauged fron,",0.6211111111111112,0.12211720802588388,0.05660377358490566,0.2222222222222222
+1318,TrOCR,raw,"to the movement of the arteries , likewise gauged from","to the movement of the arteries , likewise ganged from",0.9504178166389465,0.55384900001809,0.018867924528301886,0.1111111111111111
+1318,TrOCR,prep,"to the movement of the arteries , likewise gauged from","to the movement of the arteries , likewise ganged from",0.9719007015228271,0.553768458950799,0.018867924528301886,0.1111111111111111
+1377,Tesseract,raw,"called upon to do so , he would officiate",,0.0,0.0777432500035502,1.0,1.0
+1377,Tesseract,prep,"called upon to do so , he would officiate",,0.0,0.08687695901608095,1.0,1.0
+1377,TrOCR,raw,"called upon to do so , he would officiate","called upon to do so , he would officiate",0.9802577495574951,0.5029597079847008,0.0,0.0
+1377,TrOCR,prep,"called upon to do so , he would officiate","called upon to do so , he would officiate",0.9788188934326172,0.5236229170113802,0.0,0.0
+1389,Tesseract,raw,mined and obdurate in their attitude that,wueol cue coctucle iu tar obdutle het,0.3157142857142857,0.12509062502067536,0.6341463414634146,1.0
+1389,Tesseract,prep,mined and obdurate in their attitude that,wel cuol cociucle iu thar ob dutle uct,0.32375,0.1258129589841701,0.6585365853658537,1.1428571428571428
+1389,TrOCR,raw,mined and obdurate in their attitude that,unned and doctorate in their attitude that,0.9245172739028931,0.4934303339687176,0.14634146341463414,0.2857142857142857
+1389,TrOCR,prep,mined and obdurate in their attitude that,unned and doctorate in their attitude that,0.9462796449661255,0.47864554199622944,0.14634146341463414,0.2857142857142857
+1414,Tesseract,raw,"Germany for ten years , by which time in","Cermony Koc aa 3 aiid i b, oe eae ret",0.322,0.10793687496334314,0.6410256410256411,1.25
+1414,Tesseract,prep,"Germany for ten years , by which time in","Cem ong Kor o_ yes / 5, asbcel fie LA",0.396,0.11355441698106006,0.6153846153846154,1.25
+1414,TrOCR,raw,"Germany for ten years , by which time in","Germany for ten years , by which time in",0.9988079071044922,0.4631208329810761,0.0,0.0
+1414,TrOCR,prep,"Germany for ten years , by which time in","Germany for ten years , by which time in",0.998254656791687,0.4736201249761507,0.0,0.0
+1430,Tesseract,raw,I suggested to the congregation that it needed,a: Suggested to +he Conareqahon +nark ic needed,0.52,0.12604329199530184,0.30434782608695654,0.75
+1430,Tesseract,prep,I suggested to the congregation that it needed,“a Suqaested to the CONAreAaAhon Hat ik needed,0.5025,0.14124962501227856,0.32608695652173914,0.625
+1430,TrOCR,raw,I suggested to the congregation that it needed,I suggested to the congregation that it needed,0.9991075992584229,0.4477132089668885,0.0,0.0
+1430,TrOCR,prep,I suggested to the congregation that it needed,I suggested to the congregation that it needed,0.9995598196983337,0.46097391698276624,0.0,0.0
+1478,Tesseract,raw,Captain Byron that he had been left,Carrow \S avon Seek cc wed weir Lag,0.34125,0.13334429200040177,0.7142857142857143,1.1428571428571428
+1478,Tesseract,prep,Captain Byron that he had been left,Carlow Bayon Vhot le \od barn Lot,0.5157142857142857,0.12216754199471325,0.4857142857142857,1.0
+1478,TrOCR,raw,Captain Byron that he had been left,Captain Byron That he had been left,0.9290019273757935,0.3900435420218855,0.02857142857142857,0.14285714285714285
+1478,TrOCR,prep,Captain Byron that he had been left,Captain Byron that he had been left,0.9197848439216614,0.39410620799753815,0.0,0.0
+1506,Tesseract,raw,listening in the night . Listening in vain . For the,Astewng C the iglt Lite il ee tor th,0.34111111111111114,0.10062629205640405,0.44,0.8888888888888888
+1506,Tesseract,prep,listening in the night . Listening in vain . For the,"Asteing "" le iglt Es 7 ile (anh tor te",0.303,0.09853662498062477,0.5,1.1111111111111112
+1506,TrOCR,raw,listening in the night . Listening in vain . For the,listening in the night . Listening in vain . For the,0.9810324907302856,0.6379489579703659,0.0,0.0
+1506,TrOCR,prep,listening in the night . Listening in vain . For the,listening in the night . Listening in vain . For the,0.9861545562744141,0.6755630410043523,0.0,0.0
+1534,Tesseract,raw,treatment . If we can avoid undue,Pree tere—/ Ve ee ee hatin -aiilllene:,0.10714285714285714,0.1262327919830568,0.8125,1.1666666666666667
+1534,Tesseract,prep,treatment . If we can avoid undue,,0.0,0.11088045901851729,1.0,1.0
+1534,TrOCR,raw,treatment . If we can avoid undue,treatment . If we can avoid undue,0.9168656468391418,0.41998170799342915,0.0,0.0
+1534,TrOCR,prep,treatment . If we can avoid undue,treatment . If we can avoid undue,0.9035321474075317,0.42126320803072304,0.0,0.0
+1562,Tesseract,raw,was clear . The street was quiet and,Yous Choos . Rae Clreat P9A4 quiet a_ol,0.265,0.12983720895135775,0.5714285714285714,0.8571428571428571
+1562,Tesseract,prep,was clear . The street was quiet and,as choos . Ths Chrent LIAK quiet aa,0.45625,0.13053845899412408,0.42857142857142855,0.8571428571428571
+1562,TrOCR,raw,was clear . The street was quiet and,was clear . The street was quiet and,0.9551510214805603,0.4410807089880109,0.0,0.0
+1562,TrOCR,prep,was clear . The street was quiet and,was clear . The street was quiet and,0.9499771595001221,0.44959095801459625,0.0,0.0
+1564,Tesseract,raw,"decided upon . Inside they sat down unbidden , while",hecidod Upon . lngde thay Dt down un biddurr while,0.625,0.11277424998115748,0.26,0.875
+1564,Tesseract,prep,"decided upon . Inside they sat down unbidden , while",,0.0,0.098029958026018,1.0,1.0
+1564,TrOCR,raw,"decided upon . Inside they sat down unbidden , while","decided upon . Inside they sat down unbidden , while",0.9844725728034973,0.6323187499656342,0.0,0.0
+1564,TrOCR,prep,"decided upon . Inside they sat down unbidden , while","decided upon . Inside they sat down unbidden , while",0.987288236618042,0.6535445420304313,0.0,0.0
+1567,Tesseract,raw,"When he finally beckoned to them to enter , the action","When bo Fall lacked to Minn 70 Orr, fre ac hor",0.5409090909090909,0.15202141599729657,0.4716981132075472,0.9
+1567,Tesseract,prep,"When he finally beckoned to them to enter , the action","When bo Proll lackored to Mena 10 Creer, fre ac hor",0.5727272727272728,0.1451554999803193,0.4528301886792453,0.9
+1567,TrOCR,raw,"When he finally beckoned to them to enter , the action","When he finally welcomed to them to enter , the action",0.9335594177246094,0.5774289999972098,0.07547169811320754,0.1
+1567,TrOCR,prep,"When he finally beckoned to them to enter , the action","When he finally becloned to them to enter , the action",0.8624409437179565,0.6648773750057444,0.018867924528301886,0.1
+1575,Tesseract,raw,at home . Steve switched on Dan's,aA \ome. Steve Pe es Ou Tow Ms,0.5375,0.13544158299919218,0.5,1.1666666666666667
+1575,Tesseract,prep,at home . Steve switched on Dan's,aX \Vome. . Steve. p05 ( \rec) Ou ou s,0.483,0.13711845799116418,0.65625,1.5
+1575,TrOCR,raw,at home . Steve switched on Dan's,at home . Steve switched on Dan's,0.991527795791626,0.4390913749812171,0.0,0.0
+1575,TrOCR,prep,at home . Steve switched on Dan's,at home . Steve switched on Dan's,0.9929900765419006,0.4479348749737255,0.0,0.0
+1624,Tesseract,raw,"solar system . True enough , such ultimate weapons had not been","Aber pur j fue Crip, Wb. yloonigfe WA fO pS fic! ; tol ble",0.27071428571428574,0.13651645800564438,0.7704918032786885,1.3
+1624,Tesseract,prep,"solar system . True enough , such ultimate weapons had not been","Mer pun , [we Crip, Mth yhooile WLALOp/ ti? bo (Lip",0.2490909090909091,0.134719584020786,0.7540983606557377,1.0
+1624,TrOCR,raw,"solar system . True enough , such ultimate weapons had not been","what system . ' There enough , such ultimate weapons had not been",0.7937647700309753,0.6284650829620659,0.14754098360655737,0.3
+1624,TrOCR,prep,"solar system . True enough , such ultimate weapons had not been","ster system . Two enough , such ultimate weapons had not been",0.8568812012672424,0.6145264160004444,0.09836065573770492,0.2
+1656,Tesseract,raw,of law .,,0.0,0.07612562499707565,1.0,1.0
+1656,Tesseract,prep,of law .,,0.0,0.07723079202696681,1.0,1.0
+1656,TrOCR,raw,of law .,of law .,0.9892498254776001,0.2489909580326639,0.0,0.0
+1656,TrOCR,prep,of law .,of law .,0.9959274530410767,0.23012837499845773,0.0,0.0
+1694,Tesseract,raw,"if you ask me . Might be jaguar , might be ...",,0.0,0.08360329200513661,1.0,1.0
+1694,Tesseract,prep,"if you ask me . Might be jaguar , might be ...","if you ask ae. Might S& Jaqar, mip be...",0.5788888888888889,0.11635783303063363,0.20930232558139536,0.4444444444444444
+1694,TrOCR,raw,"if you ask me . Might be jaguar , might be ...","if you ask me . Might be jaguar , might be ...",0.9231285452842712,0.6696853749454021,0.0,0.0
+1694,TrOCR,prep,"if you ask me . Might be jaguar , might be ...","if you ask me . Might be jaguar , might be ... .",0.930330753326416,0.71071816701442,0.023255813953488372,0.1111111111111111
+1717,Tesseract,raw,would be inopportune ; and with the idea came,ould be inopportune ; anck unl. Ba idea came,0.5188888888888888,0.09090591699350625,0.22727272727272727,0.5
+1717,Tesseract,prep,would be inopportune ; and with the idea came,ould be inopportune / Grok wk. be idea come,0.5988888888888888,0.1034587089670822,0.29545454545454547,0.875
+1717,TrOCR,raw,would be inopportune ; and with the idea came,would be inappropriate ; and with the idea came,0.9087888598442078,0.46456937497714534,0.13636363636363635,0.125
+1717,TrOCR,prep,would be inopportune ; and with the idea came,would be inapparture ; and with the idea came,0.8979542255401611,0.6135494579793885,0.06818181818181818,0.125
+1735,Tesseract,raw,to receive a summons . I could see that Mr Septimus,,0.0,0.09759174997452646,1.0,1.0
+1735,Tesseract,prep,to receive a summons . I could see that Mr Septimus,,0.0,0.12154858303256333,1.0,1.0
+1735,TrOCR,raw,to receive a summons . I could see that Mr Septimus,"to receive a summons . "" I could see that Mr. Septiming",0.8965154886245728,0.7495459589990787,0.12,0.3
+1735,TrOCR,prep,to receive a summons . I could see that Mr Septimus,"to receive a summons . "" I could see that Mr. Septimny",0.9067304134368896,0.7473886670195498,0.1,0.3
+1809,Tesseract,raw,though half an hour ago she had,,0.0,0.08314775000326335,1.0,1.0
+1809,Tesseract,prep,though half an hour ago she had,,0.0,0.08822187501937151,1.0,1.0
+1809,TrOCR,raw,though half an hour ago she had,though half an hour ago she had,0.908159613609314,0.39431208302266896,0.0,0.0
+1809,TrOCR,prep,though half an hour ago she had,though half as hour ago she had,0.9410272240638733,0.3882042919867672,0.03225806451612903,0.14285714285714285
+1834,Tesseract,raw,"the windows . Little to be seen , only a",,0.0,0.07733020797604695,1.0,1.0
+1834,Tesseract,prep,"the windows . Little to be seen , only a",,0.0,0.0888859590049833,1.0,1.0
+1834,TrOCR,raw,"the windows . Little to be seen , only a","the windows . Little to be seen , only a",0.9967193007469177,0.5047357499715872,0.0,0.0
+1834,TrOCR,prep,"the windows . Little to be seen , only a","the windows . Little to be seen , only a",0.9919998645782471,0.5035843749647029,0.0,0.0
+1871,Tesseract,raw,""" Intended for Plas Newydd , this lot is . Paid for ,","2 Lantern chs oh t~ Flag Mansi old Buf Lot (S, fark F-,",0.3869230769230769,0.1016682080226019,0.76,1.3
+1871,Tesseract,prep,""" Intended for Plas Newydd , this lot is . Paid for ,","© Lantern ols of b~ flag Mearqold Pub Lolis, far F-,",0.28818181818181815,0.11083012499148026,0.7,1.1
+1871,TrOCR,raw,""" Intended for Plas Newydd , this lot is . Paid for ,",""" Intended for Play Newydd , Philot is . Paid for ,",0.8635307550430298,0.7413014170015231,0.08,0.3
+1871,TrOCR,prep,""" Intended for Plas Newydd , this lot is . Paid for ,",""" Intended for Play Newydd , Philot is . Paid for ,",0.918338418006897,0.7687510839896277,0.08,0.3
+1938,Tesseract,raw,World . You must help to lead our force . ' The long,World. You must help to \eod Gur force. | The long,0.6618181818181819,0.100475707964506,0.08,0.2727272727272727
+1938,Tesseract,prep,World . You must help to lead our force . ' The long,orld. You wust help to lead Guy force. ' The long,0.5872727272727273,0.11423533299239352,0.08,0.2727272727272727
+1938,TrOCR,raw,World . You must help to lead our force . ' The long,World . You must help to lead our force . ' The long,0.9604573845863342,0.6323587909573689,0.0,0.0
+1938,TrOCR,prep,World . You must help to lead our force . ' The long,World . You must help to lead our force . ' The long,0.9579257965087891,0.9669005829491653,0.0,0.0
+2013,Tesseract,raw,indication pointed to Eve being held .,"idizotion pourttol Fe - Exe Remg Care,",0.31857142857142856,0.14441262499894947,0.5675675675675675,1.1666666666666667
+2013,Tesseract,prep,indication pointed to Eve being held .,dizotian pouritol Fe - Et Bemg Sard,0.2714285714285714,0.12616095901466906,0.6216216216216216,1.1666666666666667
+2013,TrOCR,raw,indication pointed to Eve being held .,indication pointed to the being held .,0.9083159565925598,0.48526933399261907,0.05405405405405406,0.16666666666666666
+2013,TrOCR,prep,indication pointed to Eve being held .,indication pointed to ... . Eve being held .,0.8642131686210632,0.5360109999892302,0.10810810810810811,0.16666666666666666
+2102,Tesseract,raw,"and his pals down . """,,0.0,0.07571508298860863,1.0,1.0
+2102,Tesseract,prep,"and his pals down . """,,0.0,0.07406808400992304,1.0,1.0
+2102,TrOCR,raw,"and his pals down . ""","and his pale down . """,0.8521869778633118,0.34642974997404963,0.05,0.2
+2102,TrOCR,prep,"and his pals down . ""","and his pulp down . """,0.8562822937965393,0.33852804196067154,0.1,0.2
+2111,Tesseract,raw,""" As your employee it 's not my business",As Your curplo yee ts ust aay Gris ts $,0.45399999999999996,0.09184795798501,0.55,1.1111111111111112
+2111,Tesseract,prep,""" As your employee it 's not my business",As joer enaplo yee ifs uot “7 (ris Luss,0.4411111111111111,0.09641674999147654,0.475,1.0
+2111,TrOCR,raw,""" As your employee it 's not my business",""" As your employee it's not my business",0.9959661364555359,0.44424020894803107,0.025,0.2222222222222222
+2111,TrOCR,prep,""" As your employee it 's not my business",""" As your employee it's not my business",0.9963023066520691,0.44126433302881196,0.025,0.2222222222222222
+2141,Tesseract,raw,Graybury is one of Mr. Hewson's most,"breey Coery “PS One of Ss , por |",0.3144444444444444,0.08613400004105642,0.6944444444444444,1.0
+2141,Tesseract,prep,Graybury is one of Mr. Hewson's most,bce Ceery “S Oe of Abe. Micorfoer‘s wuosk,0.275,0.08789391699247062,0.6944444444444444,1.0
+2141,TrOCR,raw,Graybury is one of Mr. Hewson's most,breeplacy is one of Mr. Weaver's most,0.7673878073692322,0.5593829170102254,0.3333333333333333,0.2857142857142857
+2141,TrOCR,prep,Graybury is one of Mr. Hewson's most,breylary is one of Mr. Hausen's most,0.8149747252464294,0.696087250020355,0.19444444444444445,0.2857142857142857
+2152,Tesseract,raw,"partner can do , "" was her quick reply .","filae, can he, en pace’ Dale",0.34,0.1065449999878183,0.6842105263157895,0.875
+2152,Tesseract,prep,"partner can do , "" was her quick reply .","for huey CQA, Ae | * Coe (, perc’ wk,",0.34299999999999997,0.10662800003774464,0.8157894736842105,1.25
+2152,TrOCR,raw,"partner can do , "" was her quick reply .","postmen can do , "" 2003 her quick reply .",0.814737856388092,0.5429039589944296,0.21052631578947367,0.25
+2152,TrOCR,prep,"partner can do , "" was her quick reply .","partner can do , "" said her quick reply .",0.8296656012535095,0.906799582997337,0.07894736842105263,0.125
+2194,Tesseract,raw,except in moderate compliance with his father's,CRGOP i'n ae Compaen ce. fe aaa Ae,0.17375,0.10795787500683218,0.7021276595744681,1.1428571428571428
+2194,Tesseract,prep,except in moderate compliance with his father's,,0.0,0.0744502919842489,1.0,1.0
+2194,TrOCR,raw,except in moderate compliance with his father's,except in moderate compliance with his father's,0.9899622797966003,0.4470583340153098,0.0,0.0
+2194,TrOCR,prep,except in moderate compliance with his father's,except in moderate compliance with his father's,0.9969066977500916,0.4255153340054676,0.0,0.0
+2240,Tesseract,raw,""" Willie , "" the judge said huskily ,",,0.0,0.06689958303468302,1.0,1.0
+2240,Tesseract,prep,""" Willie , "" the judge said huskily ,",,0.0,0.07306687498930842,1.0,1.0
+2240,TrOCR,raw,""" Willie , "" the judge said huskily ,","' Willie , "" the judge said hurskily ,",0.8398867249488831,0.6841551249963231,0.05714285714285714,0.2857142857142857
+2240,TrOCR,prep,""" Willie , "" the judge said huskily ,","' Willie , "" the judge said hurskily ,",0.8128986954689026,3.3333950000233017,0.05714285714285714,0.2857142857142857
+2262,Tesseract,raw,"lake trout and said - 3"" Bill , he 's better","la hee trouk ANA ard ~ £° RM, Ae S Seer",0.5409090909090909,0.42429454100783914,0.5116279069767442,1.1
+2262,Tesseract,prep,"lake trout and said - 3"" Bill , he 's better","lian he trouk and Carc/ — “RM, Jie GS Sefer",0.318,0.5768427499569952,0.5116279069767442,0.9
+2262,TrOCR,raw,"lake trout and said - 3"" Bill , he 's better","lake trout and said - 3"" Bill , he's better",0.9755386114120483,2.5704598749871366,0.023255813953488372,0.2
+2262,TrOCR,prep,"lake trout and said - 3"" Bill , he 's better","lake trout and said - 3"" Bill , he's better",0.9606713056564331,1.684766749967821,0.023255813953488372,0.2
+2294,Tesseract,raw,of the bar was not 6persona grata . If her,oh the Lar war aed Eporronc Graka . df Mer,0.49200000000000005,0.10309120797319338,0.34146341463414637,0.8888888888888888
+2294,Tesseract,prep,of the bar was not 6persona grata . If her,of Me har Un ner Epervone oraka . lf Net,0.45399999999999996,0.1018987920251675,0.3902439024390244,0.8888888888888888
+2294,TrOCR,raw,of the bar was not 6persona grata . If her,of the bar was not Epersona grata . If her,0.8966161012649536,0.6080470000160858,0.024390243902439025,0.1111111111111111
+2294,TrOCR,prep,of the bar was not 6persona grata . If her,of the bar was not 6persona grata . If her,0.9286578297615051,0.6430485830060206,0.0,0.0
+2370,Tesseract,raw,"Courier knows what 's going on . If he doesn't mind ,",,0.0,0.07879150001099333,1.0,1.0
+2370,Tesseract,prep,"Courier knows what 's going on . If he doesn't mind ,","launer luis Whal!s fori - Vr hoegyit wand,",0.16625,0.10336108301999047,0.5686274509803921,1.0
+2370,TrOCR,raw,"Courier knows what 's going on . If he doesn't mind ,",Counter honours what's going on . If he doesn't mind,0.8999786376953125,3.0432112499838695,0.1568627450980392,0.5
+2370,TrOCR,prep,"Courier knows what 's going on . If he doesn't mind ,",laurier knows what's going on . If he doesn't mind,0.8952853679656982,3.6683190829935484,0.0784313725490196,0.4
+2374,Tesseract,raw,""" Tell me who the little bird was . "" "" Can't",“Ta war who War Wilke bud wes. Cousth,0.57125,0.2243432910181582,0.5681818181818182,0.9090909090909091
+2374,Tesseract,prep,""" Tell me who the little bird was . "" "" Can't",TTL wr whe Ur ite bod was” “Cunt,0.5775,0.26496279099956155,0.4772727272727273,1.0
+2374,TrOCR,raw,""" Tell me who the little bird was . "" "" Can't",""" Fell me who the little bird was . "" "" Can't",0.9854750037193298,2.937294000003021,0.022727272727272728,0.09090909090909091
+2374,TrOCR,prep,""" Tell me who the little bird was . "" "" Can't",""" Fell me who the little bird was . "" "" Can't",0.9848575592041016,1.9062818329548463,0.022727272727272728,0.09090909090909091
+2397,Tesseract,raw,John took it and put it in his pocket .,Sil tock tb aud puck th cv luis gechal,0.4277777777777778,0.2319032090017572,0.5789473684210527,1.0
+2397,Tesseract,prep,John took it and put it in his pocket .,Sau took tt aud pub ib «vr lis gokek,0.3977777777777778,0.23706091701751575,0.42105263157894735,0.8888888888888888
+2397,TrOCR,raw,John took it and put it in his pocket .,John took it and put it in his pocket .,0.9957521557807922,3.3259214170393534,0.0,0.0
+2397,TrOCR,prep,John took it and put it in his pocket .,John took it and put it in his pocket .,0.9932571053504944,0.8233441669726744,0.0,0.0
+2398,Tesseract,raw,"of the work is done . "" He held out a card .",,0.0,0.15942791698034853,1.0,1.0
+2398,Tesseract,prep,"of the work is done . "" He held out a card .",,0.0,0.12956512498203665,1.0,1.0
+2398,TrOCR,raw,"of the work is done . "" He held out a card .","of the work is done . "" He held out a card .",0.9316873550415039,0.7575036669732071,0.0,0.0
+2398,TrOCR,prep,"of the work is done . "" He held out a card .","of the work is done . "" He held out a card",0.9525699019432068,0.699158790986985,0.023809523809523808,0.09090909090909091
+2456,Tesseract,raw,giving me one of his strange looks . Then he,"aa? Vo Ory of us data a loll, Then nw",0.452,0.15662258298834786,0.5813953488372093,0.8888888888888888
+2456,Tesseract,prep,giving me one of his strange looks . Then he,"Gis) ma one of Mio fant lols, Then he",0.5588888888888889,0.1628845419618301,0.37209302325581395,0.5555555555555556
+2456,TrOCR,raw,giving me one of his strange looks . Then he,giving me one of his stage talks . Then he,0.8895521759986877,0.7652621250017546,0.11627906976744186,0.2222222222222222
+2456,TrOCR,prep,giving me one of his strange looks . Then he,giving the one of his stage looks . Then he,0.8579345345497131,0.8282742080045864,0.09302325581395349,0.2222222222222222
+2489,Tesseract,raw,"into draws , circling a big mesa by a","ye Warr , ac cla on lon min a 1",0.484,0.1946807079948485,0.6944444444444444,1.0
+2489,Tesseract,prep,"into draws , circling a big mesa by a",,0.0,0.15530970896361396,1.0,1.0
+2489,TrOCR,raw,"into draws , circling a big mesa by a","site draws , circling a big area by a",0.8310739398002625,0.7199730420252308,0.16666666666666666,0.25
+2489,TrOCR,prep,"into draws , circling a big mesa by a","site draws , circling a big MBA by a",0.8596988916397095,0.6909312920179218,0.19444444444444445,0.25
+2506,Tesseract,raw,Here in a dried-up creek-bed we found,Wek Oned -uyo coaek-hed Le ler,0.3133333333333333,0.1837822090019472,0.5945945945945946,1.0
+2506,Tesseract,prep,Here in a dried-up creek-bed we found,,0.0,0.13052354200044647,1.0,1.0
+2506,TrOCR,raw,Here in a dried-up creek-bed we found,Here is a dried-up creek-hed we found,0.8326103091239929,0.6924912079703063,0.05405405405405406,0.2857142857142857
+2506,TrOCR,prep,Here in a dried-up creek-bed we found,Here in a dried-up creek-hed he joined,0.7767994403839111,0.6905720420181751,0.13513513513513514,0.42857142857142855
+2554,Tesseract,raw,been attending some kind of fancy dress do,bee att Ceased Sotwe keyucd of foncy olvess che,0.5033333333333334,0.12464995897607878,0.5238095238095238,1.0
+2554,Tesseract,prep,been attending some kind of fancy dress do,been arte Ctacdiveg SOtHe kvicd of foncy lbvess Ne,0.23777777777777778,0.13164087501354516,0.47619047619047616,0.875
+2554,TrOCR,raw,been attending some kind of fancy dress do,been attending some kind of fancy dress do,0.9960358142852783,0.5361626249505207,0.0,0.0
+2554,TrOCR,prep,been attending some kind of fancy dress do,been attending some kind of fancy dress do,0.9959074854850769,0.5516141660045832,0.0,0.0
+2563,Tesseract,raw,""" Yes . I travelled down from London",,0.0,0.08646241703536361,1.0,1.0
+2563,Tesseract,prep,""" Yes . I travelled down from London",,0.0,0.09141270897816867,1.0,1.0
+2563,TrOCR,raw,""" Yes . I travelled down from London",""" Yes . I travelled down from London",0.9109732508659363,0.5383512080297805,0.0,0.0
+2563,TrOCR,prep,""" Yes . I travelled down from London",""" Yes . I travelled down from London",0.9069764018058777,0.5494975839974359,0.0,0.0
+2589,Tesseract,raw,"again , happy beyond belief , knowing that","Sal LOpPY mere valcy, \unaRING Mod",0.27666666666666667,0.11401104100514203,0.75,1.0
+2589,Tesseract,prep,"again , happy beyond belief , knowing that","MLO, VOY Bapnd Beley, UnaDINg, Mo",0.265,0.12112279201392084,0.675,1.0
+2589,TrOCR,raw,"again , happy beyond belief , knowing that","again , happy beyond belief , knowing that",0.9284254908561707,0.5601364159956574,0.0,0.0
+2589,TrOCR,prep,"again , happy beyond belief , knowing that","again , happy beyond belief , knowing that",0.9457520246505737,0.6016942079877481,0.0,0.0
+2613,Tesseract,raw,corner talking animatedly to Simone .,"CO We RY fatter r.0, OLA Lady Lo AURROAL -",0.33399999999999996,0.15947408403735608,0.9722222222222222,2.0
+2613,Tesseract,prep,corner talking animatedly to Simone .,"CO WY Lotte p20, OL AO tadkhuy Ae AL ORn.",0.19,0.15437687502708286,0.9166666666666666,2.0
+2613,TrOCR,raw,corner talking animatedly to Simone .,correct talking animatably to live one .,0.7925852537155151,0.6214439580217004,0.25,0.8
+2613,TrOCR,prep,corner talking animatedly to Simone .,correct talking animatably to live one,0.72419273853302,0.5703250829828903,0.2777777777777778,0.8
+2625,Tesseract,raw,"Larry's advice flashed through her mind ,",LOW A Achice Lak ro WV vaugl A.B prac,0.19444444444444442,0.13453920802567154,0.725,1.5
+2625,Tesseract,prep,"Larry's advice flashed through her mind ,",LOMA climce Moki Hraugh Les Jrrapacl,0.2033333333333333,0.1341895840014331,0.75,1.0
+2625,TrOCR,raw,"Larry's advice flashed through her mind ,",every's advice flashed through her mind,0.833399772644043,0.4896537089953199,0.1,0.3333333333333333
+2625,TrOCR,prep,"Larry's advice flashed through her mind ,",carry's advice flashed through her mind,0.8878394961357117,0.5197918339981697,0.05,0.3333333333333333
+2660,Tesseract,raw,"him a great deal better than you do . """,ce a arent des Lele than Kou de. ’,0.5144444444444445,0.12725791695993394,0.3684210526315789,0.7777777777777778
+2660,Tesseract,prep,"him a great deal better than you do . """,hi A arent deal Leler than You d>. Y,0.48444444444444446,0.16662179201375693,0.2631578947368421,0.7777777777777778
+2660,TrOCR,raw,"him a great deal better than you do . ""","him a great deal better than you do . """,0.9988955855369568,0.7851084170397371,0.0,0.0
+2660,TrOCR,prep,"him a great deal better than you do . ""","him a great deal better than you do . """,0.9993168115615845,0.8417322500026785,0.0,0.0
+2661,Tesseract,raw,"may consider him a man , I would say he was a","aise cote bon a man, i would Say he Was a",0.68,0.14817362499888986,0.3409090909090909,0.5454545454545454
+2661,Tesseract,prep,"may consider him a man , I would say he was a","na, consider bum a man, | would Say he Was a",0.7181818181818181,0.14985549997072667,0.1590909090909091,0.45454545454545453
+2661,TrOCR,raw,"may consider him a man , I would say he was a","may consider him a man , I would say he was a",0.9987688660621643,0.8241591249825433,0.0,0.0
+2661,TrOCR,prep,"may consider him a man , I would say he was a","may consider him a man , I would say he was a",0.998842179775238,0.7967662920127623,0.0,0.0
+2705,Tesseract,raw,"to the table , all of them making a fuss of her and at once","Tho table ,all oF them aati a fuer of her and al ouce She",0.6464285714285714,0.13538441702257842,0.3275862068965517,0.7142857142857143
+2705,Tesseract,prep,"to the table , all of them making a fuss of her and at once",Tie table all ae them faalerne 2 (usr of her and al owes She,0.6207142857142857,0.16764912498183548,0.41379310344827586,0.7142857142857143
+2705,TrOCR,raw,"to the table , all of them making a fuss of her and at once","The table , all of them making a fuss of her and all once she",0.8815526962280273,0.9024825000087731,0.1724137931034483,0.2857142857142857
+2705,TrOCR,prep,"to the table , all of them making a fuss of her and at once","The table , all of them making a fur of her and at once she",0.9581252932548523,0.8854612919967622,0.1724137931034483,0.2857142857142857
+2757,Tesseract,raw,"NUF 121 . "" "" He probably loaned his car","WU F 104° , fretetly Anenen A Car~",0.4225,0.10442362498724833,0.6666666666666666,1.0
+2757,Tesseract,prep,"NUF 121 . "" "" He probably loaned his car",WU F HOt _ probally Atte Au Cle,0.20375,0.15676949999760836,0.5897435897435898,1.0
+2757,TrOCR,raw,"NUF 121 . "" "" He probably loaned his car","NUF 121 . "" . He probably loaned his car",0.8967390656471252,0.8852347909705713,0.05128205128205128,0.2222222222222222
+2757,TrOCR,prep,"NUF 121 . "" "" He probably loaned his car","NUF 121 . "" . He probably loaned his car",0.8956221342086792,0.9675904999603517,0.05128205128205128,0.2222222222222222
+2779,Tesseract,raw,"them out . "" He 's the carrotty lad , isn't he ? """,,0.0,0.12970000004861504,1.0,1.0
+2779,Tesseract,prep,"them out . "" He 's the carrotty lad , isn't he ? """,,0.0,0.14319341600639746,1.0,1.0
+2779,TrOCR,raw,"them out . "" He 's the carrotty lad , isn't he ? ""","them out . "" We's the country lace , isn't he ? """,0.8527041673660278,0.9968489999882877,0.19148936170212766,0.36363636363636365
+2779,TrOCR,prep,"them out . "" He 's the carrotty lad , isn't he ? ""","them out , "" He's the carolly lace , isn't he ? """,0.8227834701538086,1.0489679590100423,0.14893617021276595,0.45454545454545453
+2808,Tesseract,raw,"there was just time to smoke a cigarette ,","hha 101 fk Aune fo rtnote a cigacethe,",0.3825,0.12608554202597588,0.5121951219512195,0.875
+2808,Tesseract,prep,"there was just time to smoke a cigarette ,","thie U0 ped Maine fo atnohi a agacethe,",0.31125,0.14564316696487367,0.5365853658536586,0.875
+2808,TrOCR,raw,"there was just time to smoke a cigarette ,","there was just time to smoke a cigarette ,",0.9501646757125854,0.6089578330283985,0.0,0.0
+2808,TrOCR,prep,"there was just time to smoke a cigarette ,",there was just time to smoke a cigarette,0.9483586549758911,0.5623769590165466,0.024390243902439025,0.125
+2811,Tesseract,raw,Sentence Database P03-189,tomberce Datatase PQS. 492,0.1325,0.11272154201287776,0.48,1.3333333333333333
+2811,Tesseract,prep,Sentence Database P03-189,,0.0,0.10849037498701364,1.0,1.0
+2811,TrOCR,raw,Sentence Database P03-189,Sentence Database # # P. 3-189,0.7008748650550842,0.6297252920339815,0.24,1.3333333333333333
+2811,TrOCR,prep,Sentence Database P03-189,Sentence Database # # P.O. 189,0.6479337811470032,0.6708022080129012,0.32,1.3333333333333333
+2844,Tesseract,raw,thing - not even friendship .,,0.0,0.08287212502909824,1.0,1.0
+2844,Tesseract,prep,thing - not even friendship .,,0.0,0.08853854198241606,1.0,1.0
+2844,TrOCR,raw,thing - not even friendship .,thing - not even friendship .,0.9547878503799438,0.47562858305172995,0.0,0.0
+2844,TrOCR,prep,thing - not even friendship .,thing - not even friendship .,0.9743529558181763,0.47732050000922754,0.0,0.0
+2887,Tesseract,raw,then Philip was so certain that Nicholas,fle Vntbsy wraz20 acter Hat Nikole.,0.39666666666666667,0.14347366598667577,0.65,1.0
+2887,Tesseract,prep,then Philip was so certain that Nicholas,,0.0,0.12600441597169265,1.0,1.0
+2887,TrOCR,raw,then Philip was so certain that Nicholas,then Philip was so certain that Nicholas,0.9924598336219788,0.5627311249845661,0.0,0.0
+2887,TrOCR,prep,then Philip was so certain that Nicholas,then Philip was so certain that Nicholas,0.9871559143066406,0.5897268750122748,0.0,0.0

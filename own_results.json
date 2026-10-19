@@ -1,0 +1,306 @@
+[
+  {
+    "file": "english.jpg",
+    "image_sha256": "87cf967c76d1d86a8ca452a3cc7ce194de1cd38daa9fb3e53119fb4d1602b34b",
+    "taken": "2026:10:17 19:22:49",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "raw",
+    "confidence": 0.6366,
+    "seconds": 0.537,
+    "cer": 0.1815,
+    "wer": 0.5789,
+    "text": "OS ee | ea quick brown Fox jumps over the la2y dog Optical character cecognitron turns imager Into text. Handwriting ig mueh harder to read than priut. Yourself off ite pleasant ecctabic Yow law. Ye their mirth seeme af songs. One Sportsman tolerably him extens/yve put she [ mme diawe « Haig beads Cannock [ookake weamee now €asy Cat had how"
+  },
+  {
+    "file": "english.jpg",
+    "image_sha256": "87cf967c76d1d86a8ca452a3cc7ce194de1cd38daa9fb3e53119fb4d1602b34b",
+    "taken": "2026:10:17 19:22:49",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "microsoft/trocr-base-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "raw",
+    "confidence": 0.8996,
+    "seconds": 5.515,
+    "cer": 0.0714,
+    "wer": 0.2456,
+    "text": "I The quick brown fox jumps over the lazy dog\n1 Optical character recognition turns images .\n\" More text . Handling is much harder to read\nthan print . Yourself off its pleasant ecstatic\nnow law . Yet their ninth seems of songs . One\nsportsman tolerably him extensive put \" she\nimmediate . He abroad of cannot looked in size\nnow easy eat hard hour ."
+  },
+  {
+    "file": "english.jpg",
+    "image_sha256": "87cf967c76d1d86a8ca452a3cc7ce194de1cd38daa9fb3e53119fb4d1602b34b",
+    "taken": "2026:10:17 19:22:49",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.7779,
+    "seconds": 0.286,
+    "cer": 0.1071,
+    "wer": 0.4737,
+    "text": "The quick brown Fox jumps over the lazy do Optical character cecognition turns imager Into text. Handwriting is much harder te read than print. Yourself fF ite pleasant ecstatic row law. Ye their mirth seeme af songs. One Sportsman tolerably him extens/ve put rhe immediate. He abroad. a ca unet lookeg. In. Size now Casy Cat had how. | | | |"
+  },
+  {
+    "file": "english.jpg",
+    "image_sha256": "87cf967c76d1d86a8ca452a3cc7ce194de1cd38daa9fb3e53119fb4d1602b34b",
+    "taken": "2026:10:17 19:22:49",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "microsoft/trocr-base-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.8917,
+    "seconds": 5.436,
+    "cer": 0.0714,
+    "wer": 0.2807,
+    "text": "( The quick brown fox jumps over the lazy dog\n1 Optical character recognition turns images .\n( \" to text . Handling is much harder to read\n( than print . Yourself off its pleasant ecstatic\nknow law . Yet their ninth seems of songs . One\nsportsman tolerably him extensive put she\nimmediate . He abroad of cannot looked in-Size\nnow easy eat hard hour ."
+  },
+  {
+    "file": "page_angle.jpg",
+    "image_sha256": "b5bba6d654c19a023ec7fd011b389383987b6e7ae394aa4c6800c7059e7b253f",
+    "taken": "2026:10:17 19:22:29",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "ukr+eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "raw",
+    "confidence": 0.3224,
+    "seconds": 0.54,
+    "cer": 0.8672,
+    "wer": 1.0,
+    "text": "EE п  ' и жр'- лі ae кана ой б бач нафленс ар, rocugunre, poodpa, ОТ Hy ypu Pf. FTC3-4F 1? coGmpux 208 6 р-"
+  },
+  {
+    "file": "page_angle.jpg",
+    "image_sha256": "b5bba6d654c19a023ec7fd011b389383987b6e7ae394aa4c6800c7059e7b253f",
+    "taken": "2026:10:17 19:22:29",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "Hukyl/trocr-large-uk-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "raw",
+    "confidence": 0.971,
+    "seconds": 27.376,
+    "cer": 0.1017,
+    "wer": 0.3492,
+    "text": "Тільки було наша Маруся урди-годи збереться\nй подруженьки на весілля у дрижечки.\nни, не буде вона у суботу бігати з\nсіми по вулиці та горло драти, мог\nвжена, як усі роблять, а прийде\nвсе у неділеньку, посидить, тобіда, а як\nведуть молодих на двір танцювати,\nона тут чи побула, чл не пабудуло,\nдорицій додому;\nКурилів В.І. ПЗ-47 17жовтня 20269."
+  },
+  {
+    "file": "page_angle.jpg",
+    "image_sha256": "b5bba6d654c19a023ec7fd011b389383987b6e7ae394aa4c6800c7059e7b253f",
+    "taken": "2026:10:17 19:22:29",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "ukr+eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.2546,
+    "seconds": 0.199,
+    "cer": 0.8983,
+    "wer": 0.9841,
+    "text": "ся й м про пиорноту ний РА PS. Je3—44 4? оссобнарая. 208. 0,р-"
+  },
+  {
+    "file": "page_angle.jpg",
+    "image_sha256": "b5bba6d654c19a023ec7fd011b389383987b6e7ae394aa4c6800c7059e7b253f",
+    "taken": "2026:10:17 19:22:29",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "Hukyl/trocr-large-uk-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.9704,
+    "seconds": 28.228,
+    "cer": 0.0989,
+    "wer": 0.3333,
+    "text": "Тільки було наша Маруся урди-гози збереться\nй подруженьки на весілля у дрижечки.\nни , не буде вона у суботу бігати з\nсіми по вулиці та горло драти, мов\nв жена, як усі роблять, а прийде\nвсе у неділеньку, посидить, рообіда, а як\nведуть молодих на двір танцювати,\nОна тут чи побула, чл не пабудуля,\nорицій додому;\nКурилів В.І. ПЗ-47 17жовтня 2026р."
+  },
+  {
+    "file": "page_flat.jpg",
+    "image_sha256": "952ab50e893026fb0f57309cb60f86e36e822569682611b15e6e5a25cc284873",
+    "taken": "2026:10:17 19:21:38",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "ukr+eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "raw",
+    "confidence": 0.3387,
+    "seconds": 0.769,
+    "cer": 0.8107,
+    "wer": 0.9841,
+    "text": "| Чо | Tas Фо rae. еру ура знати ча ocr. - dita й о ee ee | ae Came о AEE OEE TOE 5 Pee ЕХ реч ae | о рака ocd aij ee ато cuouogux pa Gly morigrlany Oe I Saas ae ae Hapuih Bf, IC3-4F 12 cokmpur 202 6p."
+  },
+  {
+    "file": "page_flat.jpg",
+    "image_sha256": "952ab50e893026fb0f57309cb60f86e36e822569682611b15e6e5a25cc284873",
+    "taken": "2026:10:17 19:21:38",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "Hukyl/trocr-large-uk-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "raw",
+    "confidence": 0.986,
+    "seconds": 28.282,
+    "cer": 0.0424,
+    "wer": 0.2063,
+    "text": "Тільки було наша Маруся урди-годи збереться\nдо подруженьки на весілля у дрижечки.\nй то не буде вона у суботу бігати з\nними по вулиці та горло драти, мов\nскажена, як усі роблять, а прийде\nвже у неділеньку, посидить, рообіда, а як\nвиведуть молодих на двір танцювати,\nвона тут чи побула, чл не пабуда,\nмерший додому;\nКурилів В.І. ПЗ-47 17жовтня 20269."
+  },
+  {
+    "file": "page_flat.jpg",
+    "image_sha256": "952ab50e893026fb0f57309cb60f86e36e822569682611b15e6e5a25cc284873",
+    "taken": "2026:10:17 19:21:38",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "ukr+eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.3019,
+    "seconds": 0.275,
+    "cer": 0.8814,
+    "wer": 0.9841,
+    "text": "дна Pek te CHa-secepeo , М yor pokes j a CORE Gee нарклан у гост, poodipa, в А І. пз 1? mc0bm pus 203.6 р. |"
+  },
+  {
+    "file": "page_flat.jpg",
+    "image_sha256": "952ab50e893026fb0f57309cb60f86e36e822569682611b15e6e5a25cc284873",
+    "taken": "2026:10:17 19:21:38",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "Hukyl/trocr-large-uk-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.9875,
+    "seconds": 28.249,
+    "cer": 0.0311,
+    "wer": 0.1746,
+    "text": "Тільки було наша Маруся урди-годи збереться\nдо подруженьки на весілля у дражечки. Та\nй то не буде вона у суботу бігати з\nними по вулиці та горло драти, мов\nскажена, як усі роблять; а прийде\nвже у неділеньку, посидить, рообіда, а як\nвиведуть молодих на двір танцювати,\nвона тут чи робула, чл не побыла\nмерший додому;\nКурилів В.І. ПЗ-47 17жовтня 2026р."
+  },
+  {
+    "file": "page_shadow.jpg",
+    "image_sha256": "d2e5f8f42f372f373865070656ab66a934028dd6d9923e6745f67a1bdc71c4fe",
+    "taken": "2026:10:17 19:56:45",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "ukr+eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "raw",
+    "confidence": 0.424,
+    "seconds": 0.289,
+    "cer": 0.952,
+    "wer": 1.0,
+    "text": "ie eg ран гла 7 oe Ate Vs зи a,"
+  },
+  {
+    "file": "page_shadow.jpg",
+    "image_sha256": "d2e5f8f42f372f373865070656ab66a934028dd6d9923e6745f67a1bdc71c4fe",
+    "taken": "2026:10:17 19:56:45",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "Hukyl/trocr-large-uk-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "raw",
+    "confidence": 0.9819,
+    "seconds": 32.326,
+    "cer": 0.0621,
+    "wer": 0.254,
+    "text": "Тільки було наша Маруся урди-годи зберетьєв\nдо подруженьки на весілля у дрижечки.\nИ то не буде вона у суботу бігати з\nними по вулиці та горло драти, мов\nкажена, як усі роблять, а прийде\nвже у неділеньку, посидить, рообіда, а як\nшведуть молодих на двір танцювати,\nвона тут чи побула, чл не пабудуло,\nмерший додому;\nКурилів В.І. ПЗ-47 17жовтня 2026р."
+  },
+  {
+    "file": "page_shadow.jpg",
+    "image_sha256": "d2e5f8f42f372f373865070656ab66a934028dd6d9923e6745f67a1bdc71c4fe",
+    "taken": "2026:10:17 19:56:45",
+    "camera": "iPhone 15",
+    "engine": "Tesseract",
+    "version": "Tesseract 5.5.3",
+    "params": {
+      "lang": "ukr+eng",
+      "psm": 6,
+      "oem": 1
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.3386,
+    "seconds": 0.511,
+    "cer": 0.8305,
+    "wer": 0.9683,
+    "text": "а а «Я be mel ба у роб 428 se а il Goce ya Cowce ФО дер, Осо, poodiga, Copa: тати ee подала, uw Ke nodg a, Gogh Pf. тон 1? ошсобтарчя. 202 6p. a"
+  },
+  {
+    "file": "page_shadow.jpg",
+    "image_sha256": "d2e5f8f42f372f373865070656ab66a934028dd6d9923e6745f67a1bdc71c4fe",
+    "taken": "2026:10:17 19:56:45",
+    "camera": "iPhone 15",
+    "engine": "TrOCR",
+    "version": "transformers 5.20.1",
+    "params": {
+      "model": "Hukyl/trocr-large-uk-handwritten",
+      "num_beams": 1,
+      "segmentation": "split_lines"
+    },
+    "preprocessing": "adaptive",
+    "confidence": 0.979,
+    "seconds": 26.627,
+    "cer": 0.0395,
+    "wer": 0.2063,
+    "text": "Тільки було наша Маруся урди-годи збереться\nдо подруженьки на весілля у дражечки. Та\nй то не буде вона у суботу бігати з\nними по вулиці та горло драти, мов\nскажена, як усі поблять; а прийде\nвже у неділеньку, посидить, рообіда, а як\nшведуть молодих на двір танцювати,\nКона тут чи побула, чл не пабуда,\nмерший додому;\nКурилів В.І. ПЗ-47 17жовтня 2026р."
+  }
+]
